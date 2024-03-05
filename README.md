@@ -47,7 +47,7 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 4. Push to the branch (`git push origin feature/NewFeature`).
 5. Open a pull request.
 
-## Your contributions will be greatly appreciated! Together, we can make the Weather Notification App even better! 🌟
+## Your contributions will be greatly appreciated! Together, we can make the Advice Notification App even better! 🌟
 
 ## The application will fetch weather updates and send notifications every two hours.
 
